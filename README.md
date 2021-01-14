@@ -10,7 +10,7 @@ extenal tool: rebar3
 
 library: cowboy, emysql, jsx, ranch
 
-
+DB: mysql, ETS
 
 < About >
 
