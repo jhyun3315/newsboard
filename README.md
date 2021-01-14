@@ -1,12 +1,15 @@
 # newsboard
 
-< Setting > 
+< Settings > 
 
 OS: window 10 
 
-server: local, erlang(language)
+sdk: Erlang OTP 23
+
+extenal tool: rebar3
 
 library: cowboy, emysql, jsx, ranch
+
 
 
 < About >
